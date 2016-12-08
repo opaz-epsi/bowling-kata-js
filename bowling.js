@@ -4,4 +4,16 @@ class Bowling {
     }
 }
 
+/*
+function Bowling() {
+    function works() {
+        return true;
+    }
+
+    return {
+        works
+    }
+}
+*/
+
 module.exports = Bowling;

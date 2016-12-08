@@ -2,7 +2,7 @@ let Bowling = require('./bowling')
 
 describe("bowling", () => {
 
-    it("tests works", () => {
+    it("works", () => {
         let bowling = new Bowling();
         expect(bowling.works()).toBe(true);
     });
